@@ -16,12 +16,6 @@ function App() {
       </div>
       <h1>Jocea Tu Ticket</h1>
       <p>¡Jocea tu entrada, vive la experiencia!</p>
-      <div className="card">
-        <button onClick={() => setCount((count) => count + 1)}>
-          count is {count}
-        </button>
-  
-      </div>
       <p className="read-the-docs">
         ©ValeryGonzalez
       </p>
